@@ -1,5 +1,5 @@
 # Low-demand-forecasting
-Spare parts demand analysis according to the classification scale of Syntetos et al. (2005).
+Spare parts demand analysis according to the classification scale of Syntetos and Boylan (2005).
 
 
 
